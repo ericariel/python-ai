@@ -56,6 +56,5 @@ def main():
 
     print('预测准确率为{:.2f}%'.format(accuracy * 100))
 
-
 if __name__=="__main__":
     main()
